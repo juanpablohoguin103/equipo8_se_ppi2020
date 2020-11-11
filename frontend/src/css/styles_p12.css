@@ -1,0 +1,93 @@
+
+@media (max-width: 1500px) {
+
+.Boton45{
+ 
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: rgba(38, 39, 36, 0.808);
+    margin-top: 100px;
+    margin-bottom: 80px; 
+  position: relative;
+  top:70px;
+  left:580px ;
+    
+}
+.Boton45:hover{
+  text-decoration: none;
+  color: #ffffff;
+  background: #06e924
+  }
+
+
+.div48{
+ background-color: #ffffff;
+  text-align: center;
+   border-style: solid;
+   border-width: 4px; 
+  width:600px ;
+  height: 300px;
+position: relative;
+top: 50px;
+left: 350px;
+}
+
+.img46{
+  width:100px ;
+position: relative;
+  left: 10px;
+top: 60px;
+}
+
+.text79{
+position: relative;
+top: 50px;
+}
+header {
+  width: 1500px;
+ max-width:1500px ;
+  background: #06e924;
+}
+
+.container {
+  width: 1000px;
+
+  overflow: hidden;
+  display: inline-block;
+}
+
+.Enviar{
+  width: 1500px;
+  height: 1000PX;
+  }
+
+}
+
+@media (max-width: 720px) {
+
+header{
+  
+width: 720px;
+}
+.Enviar{
+  width: 720px;
+  height: 810px;
+}
+
+.div48{
+  width:300px ;
+  height: 250px;
+  position: relative;
+  left: 30px;
+}
+.Boton45{
+  position: relative;
+left: 100px;
+}
+.text79{
+ font-size: 20px;
+}  
+}

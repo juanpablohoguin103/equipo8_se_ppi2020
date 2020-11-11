@@ -1,0 +1,86 @@
+@media (max-width: 1500px) {
+  header {
+    width: 1500px;
+    height: 150px;
+    overflow: hidden;
+   max-width:1500px ;
+    background: #06e924;
+  }
+
+.Boton6 {
+  text-decoration: none;
+  padding: 3px 0px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: rgba(54, 56, 50, 0.808);
+  border: 2px solid white;
+  display: inline block;
+
+  text-align: center;
+  position: relative;
+  top: 150px;
+ 
+}
+.Boton6:hover{
+  text-decoration: none;
+  color: #ffffff;
+  background: #06e924
+  }
+
+.heder1 {
+  height: 300px;
+  position: relative;
+
+}
+
+.form {
+ text-align: center;
+  border-style: solid;
+  border-width: 4px; 
+ width:400px ;
+ height: 450px;
+
+ position: relative;
+ top: 70px;
+ left: 500px;
+ background-color: white;
+
+}
+
+.titulo_2 {
+  position: relative;
+ 
+
+}
+.div200 {
+  width:1500px ;
+height:1000px ;
+}
+
+.divsito{
+position: relative;
+top: 60px;
+}
+}
+
+@media (max-width: 720px) {
+header{
+width:720px ;
+}
+.div200{
+  width: 720px;
+  height: 810px;
+}
+.form{
+width: 350px;
+height: 350px;
+position: relative;
+left: 5px;
+top: 15px ;
+}
+.Boton6{
+position: relative;
+top:85px ;
+}
+}

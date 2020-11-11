@@ -1,0 +1,80 @@
+
+@media (max-width: 1500px) {
+.Titulo {
+  text-align: center;
+  position: relative;
+
+  bottom: 5px;
+  left: 1px;
+  top:30px;
+  
+  }.Formulario {
+
+    width: 40vh;
+    height: 100vh;
+    margin: auto;
+    
+    
+    }
+    
+    
+    .contenedor{
+      width: 5vh ;
+      height: 80vh;
+    color:black;
+    top: 40px;
+    left: 25;
+    position: relative;
+    
+    left: 1%;
+    display: inline-block;
+    
+    }
+
+
+    .Boton2 {
+      text-decoration: none;
+      padding: 10px 0px  ;
+      font-weight: 600;
+      font-size: 25px;
+      color:  #ffffff;
+      background-color: rgba(54, 56, 50, 0.808);
+      border: 2px solid white;
+     display: inline block;
+  
+    text-align: center;
+    position: relative;
+    bottom:180px ;
+    left:585px ;
+    
+    }
+.Boton2:hover{
+   color: #ffffff;
+    background: #06e924;
+    border-radius: 0px;
+  text-decoration:none;
+}
+
+    
+    .campoentrada {
+      font-size: 23px
+    }
+  }
+    @media (max-width: 720px) {
+
+
+      .contenedor{
+      right: 1000px;
+      }
+      .Boton2{
+      left: 100px;
+      
+      }
+     .Titulo{
+       
+     }
+
+
+
+      
+    }

@@ -1,0 +1,123 @@
+
+@media (max-width: 1500px) {
+
+header {
+  width: 1350px;
+ max-width:1500px ;
+  background: #06e924;
+}
+
+.container {
+  width: 1350px;
+
+  overflow: hidden;
+  display: inline-block;
+}
+
+.div12{
+width:1350px ;
+height: 1000px;
+}
+.img {
+  width: 100px;
+  height: 2%;
+}
+
+.text46 {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+  position: relative;
+  bottom: 80px;
+  right: 300px;
+}
+
+  .Boton23 {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+    background-color:rgb(87, 81, 81);;
+
+  position: relative;
+  top:-40px;
+  left:90vh ;
+  width: 300px;
+  height:70px ;
+}
+.Boton24 {
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: rgb(87, 81, 81);
+position: relative;
+
+left:90vh ;
+top:-170px;
+width: 300px; 
+height:70px ;
+    
+}
+
+.Boton23:hover{
+  text-decoration: none;
+  color: #ffffff;
+  background: #06e924
+  }
+  .Boton24:hover{
+    text-decoration: none;
+    color: #ffffff;
+    background: #06e924
+    }
+      
+    .Boton25:hover{
+      text-decoration: none;
+      color: #ffffff;
+      background: #06e924
+      }
+        
+      .Boton26:hover{
+        text-decoration: none;
+        color: #ffffff;
+        background: #06e924
+        }
+          
+    
+    
+  
+
+
+
+
+
+.cuerpo {
+  display: block;
+  bottom: 60%;
+  width: 500px ;
+  position: relative;
+  top: 40px;
+}
+}
+@media (max-width: 720px) {
+header{
+  width: 720px;
+}
+
+.div12{
+width: 720px;
+height: 800px;
+}
+.Boton23{
+position: relative;
+left: 30px;
+}
+.Boton24{
+  position: relative;
+  left: 30px;
+  }
+
+
+}

@@ -1,0 +1,98 @@
+
+@media (max-width: 1500px) {
+.tabla {
+position: relative;
+left:200px ;
+width:867px;
+ 
+
+
+}
+
+
+.div56{
+  width:1500px ;
+  height: 1000px;
+}
+
+
+.encabezado{
+  background-color: rgb(76, 199, 76);
+  text-align: center
+}
+
+.febrero {
+  text-align: center
+}
+.x{
+  background-color: red
+}
+.X{
+  background-color: rgb(0, 195, 255)
+}
+
+.Boton5{
+  text-decoration: none;
+  padding: 1px 50px  ;
+  font-weight: 600;
+  font-size: 30px;
+  color:white;
+  background-color: rgb(87, 81, 81);
+  border: 2px solid black;
+ display: inline block;
+
+
+text-align: center;
+position: relative;
+ top: 25px;
+left: 500px;}
+
+.Boton5:hover{
+  text-decoration: none;
+  color: #ffffff;
+  background: #06e924
+  }
+.fecha22 {
+  position: relative;
+  left:300px ;
+}
+
+}
+
+
+
+@media (max-width: 720px) {
+  .tabla {
+    position: relative;
+left:300px ;
+width:720px;
+ 
+ 
+    
+  }
+  .Boton5{
+   text-decoration: none;
+   padding: 1px 50px  ;
+   font-weight: 600;
+   font-size: 20px;
+   color:white;
+   background-color: rgb(87, 81, 81);
+   border: 2px solid black;
+  display: inline block;
+ 
+ 
+ text-align: center;
+ position: relative;
+  top: 25px;
+ left: 500px;}
+ 
+ .Boton5:hover{
+   text-decoration: none;
+   color: #ffffff;
+   background: #06e924
+   }
+ }
+ .fecha22 {
+  position: relative;
+  right:300px ;
+}

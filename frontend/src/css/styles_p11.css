@@ -1,0 +1,17 @@
+.Botoon {
+  text-decoration: none;
+  padding: 10px 0px  ;
+  font-weight: 600;
+  font-size: 25px;
+  color:  #ffffff;
+  background-color: rgba(54, 56, 50, 0.808);
+  border: 2px solid white;
+ display: inline block;
+
+margin: 45%;
+text-align: center;
+position: relative;
+bottom:160px ;
+left:74px ;
+}
+

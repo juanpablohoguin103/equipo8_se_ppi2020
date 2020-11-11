@@ -1,0 +1,74 @@
+
+@media (max-width: 1500px) {
+
+th,
+td,
+table {
+  border: black 2px solid;
+  border-collapse: collapse;
+}
+.divsito444 {
+  width: 1350px;
+  height: 700px;
+}
+
+.div2 {
+  overflow: scroll;
+  height: 400px;
+  width: 350px;
+}
+
+.div2 table {
+  width: 300px;
+}
+
+.img2 {
+  width: 50px;
+  height: 50px;
+}
+
+.img2:hover:hover {
+  background: #19cc40;
+  border-radius: 30px;
+}
+.img234{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  
+}
+.Boton4764{
+  position: relative;
+  left:550px ;
+  top:50px;  
+}
+.Boton4764:hover{
+background: #19cc40;
+
+}
+.td1 {
+  width: 6px;
+  height: 60px;
+  text-align: center;
+}
+
+.div2{
+	position: relative;
+	left: 400px;
+}}
+
+@media (max-width: 720px) {
+.divsito444{
+width: 720px;
+height: 810px;
+}
+header{width: 720px;}
+.div2{position: relative;left: 25px; }
+
+.Boton4764{
+  position: relative;
+  left: 180px;
+}
+
+
+}

@@ -1,0 +1,74 @@
+
+@media (max-width: 1500px) {
+.desplegable{
+  
+  text-align: center;
+  position: relative;
+  right: 1px;
+  top: 300px;  
+
+}  
+.lista1{
+font-size: 200%;
+display: inline-block;
+}
+
+.lista2{
+  font-size: 200%;
+  display: inline-block;
+  position: relative;
+  bottom:100px ;
+}
+.boton4 {
+  text-decoration: none;
+  padding: 1px 50px  ;
+  font-weight: 600;
+  font-size: 30px;
+  color:white;
+  background-color: rgb(87, 81, 81);
+  border: 2px solid black;
+ display: inline block;
+
+
+text-align: center;
+position: relative;
+top:400px ;
+left: 570px;}
+.boton4:hover{
+  text-decoration: none;
+  color: #ffffff;
+  background: #06e924
+  }
+
+.selecion{
+  position: relative;
+  right: 30px;
+}
+
+.div55{
+  
+width:1350px ;
+height: 1000px;
+}
+}
+@media (max-width: 720px) {
+.div55{
+width: 720px;
+height: 810px;}
+
+.desplegable{
+  
+  text-align: center;
+  position: relative;
+  right: 170px;
+  top: 200px;  
+
+}
+.boton4{
+position: relative;
+top:250px;
+left: 100px;
+}
+
+
+}

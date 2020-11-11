@@ -1,0 +1,143 @@
+@media (max-width: 1500px) {
+  .header12 {
+    width: 1500px;
+
+    background: #06e924;
+  }
+
+  .container {
+    width: 1000px;
+
+    overflow: hidden;
+    display: inline-block;
+  }
+
+  .nav1 {
+    font-size: 50px;
+    position: relative;
+    left: 480px;
+    bottom: 80px;
+  }
+  .text14:hover {
+    text-decoration: none;
+    background-color: #06e924;
+    color: white;
+  }
+  .sub {
+    width: 50px;
+  }
+
+  .header12 nav a {
+    display: inline-block;
+    color: black;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .header12 nav a:hover {
+    text-decoration: none;
+    background: green;
+    border-radius: 50px;
+    color: #ffffff;
+  }
+
+  .texto32 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 40;
+    color: rgb(134, 130, 130);
+    position: relative;
+
+    bottom: 150px;
+    left: 100px;
+  }
+  .Boton31 {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: rgba(134, 226, 12, 0.808);
+    margin-top: 100px;
+    margin-bottom: 40px;
+    border: 2px solid white;
+
+    position: relative;
+    left: 170px;
+    bottom: 130px;
+  }
+  .Boton31:hover {
+    text-decoration: none;
+    background-color: #06e924;
+    color: white;
+  }
+
+  .img134 {
+    position: relative;
+    left: 600px;
+    top: 50px;
+    display: inline-block;
+    width: 500px;
+    height: 300px;
+  }
+
+  .home {
+    width: 1500px;
+    height: 1000px;
+  }
+ 
+
+@media (max-width: 720px) {
+  .header12 {
+    width: 750px;
+    height: 200px;
+    background: #06e924;
+  }
+
+  .container {
+    width: 700px;
+    height: 180px;
+    overflow: hidden;
+    display: inline-block;
+  }
+
+  .nav1 {
+    font-size: 50px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+  }
+
+  .sub {
+    width: 50px;
+  }
+
+  .texto32 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1px;
+    color: rgb(134, 130, 130);
+    position: relative;
+
+    left: 150px;
+  }
+  .Boton31 {
+    position: relative;
+    left: 200px;
+  }
+
+  .img134 {
+    width: 150px;
+    height: 50px;
+
+    position: relative;
+    left: 35px;
+    top: 250px;
+    display: inline-block;
+  }
+
+  .home {
+    width: 750px;
+    height: 920px;
+  }
+}
+}

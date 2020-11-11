@@ -1,0 +1,114 @@
+
+@media (max-width: 1500px) {
+
+header {
+  width: 1500px;
+  height: 150px;
+  overflow: hidden;
+ max-width:1500px ;
+  background: #06e924;
+}
+.container {
+  width: 1000px;
+  height: 150px;
+}
+
+.divsito4{
+  width: 1500px;
+  height: 999px;
+}
+
+
+.img {
+  width: 100px;
+  height: 2%;
+}
+
+.text {
+  color: white;
+  font-size: 40px;
+  position: relative;
+  bottom: 11vh;
+  left: 18vh;
+}
+.Boton {
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: rgba(134, 226, 12, 0.808);
+  margin-top: 100px;
+  margin-bottom: 80px;
+  border: 2px solid white;
+  margin: 36%;
+
+}
+.cuerpo {
+  display: block;
+  bottom: 60%;
+  width: ;
+  position: relative;
+  top: 40px;
+}
+
+.BotonTRES{
+  margin:auto ;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: rgba(134, 226, 12, 0.808);
+  margin-top: 100px;
+  margin-bottom: 80px;
+  border: 2px solid white;
+  margin: 36%;
+  position: relative;
+top:8vh;
+
+}
+.Boton4{
+  
+  padding:10px ;
+  
+  text-align: center;
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: rgba(134, 226, 12, 0.808);
+  margin: 36%;
+  width:1000px ;
+  position: relative;
+top:15vh;
+}
+
+
+.Boton4564{
+ 
+  width: 70px;
+  height: 70px;
+ position: relative;
+   top:170px ;
+   left: 360px ;
+}
+}
+
+@media (max-width: 720px) {
+header{width: 720px}
+
+  
+.divsito4{
+  width: 720px;
+  height: 810px;
+}
+.Boton4564{
+ 
+ position: relative;
+
+  left: -140px;
+}
+
+
+
+}

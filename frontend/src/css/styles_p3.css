@@ -1,0 +1,102 @@
+@media (max-width: 1500px) {
+
+.campo {
+  width: 33vh;
+  height: 50%;
+  margin: auto;
+}
+.Titulo_login {
+  
+}
+
+.instruccion {
+ 
+
+  text-align: center;
+  border-style: solid;
+  border-width: 4px; 
+ width:450px ;
+ height: 450px;
+position: relative;
+top: 80px;
+left: 500px;
+background-color:white;
+}
+
+.Boton3 {
+  text-decoration: none;
+  padding: 3px 0px;
+  font-weight: 600;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: rgba(54, 56, 50, 0.808);
+  border: 2px solid white;
+  display: inline block;
+
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+.Boton3:hover{
+  color: #ffffff;
+   background: #06e924;
+   border-radius: 0px;
+ text-decoration:none;
+}
+
+.bboton {
+color: rgb(0, 183, 255);
+  text-align: center;
+  position: relative;
+top: 70px;
+
+}
+.bboton :hover{
+  color:blue;
+   border-radius: 0px;
+   text-decoration:none;
+}
+
+
+.lista {
+  font-size: 142%;
+}
+
+.bboton1 {
+  text-align: center;
+  position: relative;
+  top:60px ;
+  color: rgb(0, 183, 255);;
+  
+}
+.bboton1:hover{
+  color: blue;
+   border-radius: 0px;
+ 
+}
+
+
+.sing_up{
+  width: 1500px;
+  height: 800px;
+}
+}
+@media (max-width: 720px) {
+
+  .instruccion {
+width:300px ;
+height: 450px;
+ left: 40px;
+ position: relative;
+top: 25px;
+  }
+
+  .sing_up{
+    width: 700px;
+    height: 800px;
+
+  }
+
+
+
+}
