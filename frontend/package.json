@@ -3,7 +3,7 @@
   "version": "0.0.11072",
   "description": null,
   "keywords": [],
-  "main": "src/index.js",
+  "main": "src/pages/index.js",
   "dependencies": {
     "bootstrap": "4.5.2",
     "css.js": "0.2.3",
