@@ -3,8 +3,7 @@ import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 
-import App from "../routes/App"
-import Home from "../pages/home";
+import App from "../routes/App";
 
 
 
