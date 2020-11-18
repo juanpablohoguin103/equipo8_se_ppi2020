@@ -7,12 +7,12 @@ import Fondo from "../images/img.png";
 function home() {
   return (
     <div className="home1">
-      <div className="home" style={{ background: `url(${Fondo})` }}>
+     <div className="home" style={{ background: `url(${Fondo})` }}> 
         <header className="header12">
           <div className="container">
             <div className="sub">
               {" "}
-              <img className="img" src={Logo} />
+               <img className="img" src={Logo} /> 
             </div>
             <nav className="nav1">
               <a className="tex14" href="/Login">
@@ -29,7 +29,7 @@ function home() {
         </header>
 
         <div className="img134">
-          <img src={Imagen} />
+           <img src={Imagen} /> 
         </div>
 
         <div className="texto32">
@@ -41,7 +41,7 @@ function home() {
           Registrate
         </a>
       </div>
-    </div>
+     </div>
   );
 }
 

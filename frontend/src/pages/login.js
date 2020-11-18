@@ -41,7 +41,7 @@ function  Login(){
    </div>
 
   </div>
- <a className="Boton2" href="/sing_up">
+ <a className="Boton21" href="/sing_up">
       Registrese 
     </a>
 

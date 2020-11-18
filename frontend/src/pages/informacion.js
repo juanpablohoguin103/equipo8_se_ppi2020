@@ -21,9 +21,9 @@ function Informacion() {
 <h2> Holgincorreaj27@gmail.com </h2>
 </div>
 
-
-<button className="Botonimg">  <img className="img2" src={Log} /></button>
-
+<a href="/">
+<button className="Boton2">  <img className="img2" src={Log} /></button>
+</a>
 
 
 </div>
